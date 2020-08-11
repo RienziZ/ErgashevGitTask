@@ -1,5 +1,6 @@
 # ErgashevGitTask
 Create First Commit
 Create Second Commit
+Create Fifth Commit (third in Master Branch)
 Create Third Commit in new branch
 Create Fourth Commit in AlternativeWay Branch
